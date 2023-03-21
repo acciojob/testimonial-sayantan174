@@ -8,7 +8,9 @@
 }
 .item{
 	background-color: white;
+	padding:10px;
 }
 p{
 	text-align:right;
+	font-style:italic;
 }
